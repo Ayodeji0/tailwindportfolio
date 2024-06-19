@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/*  THIS IF FOR THE ALIGNMENT OF ALL ELEMENTS TO BE IN SAME PLACE */
+@layer components {
+.align-element{
+    @apply mx-auto max-w-7xl px-8
+}
+}
