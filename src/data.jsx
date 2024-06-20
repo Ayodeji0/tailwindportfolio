@@ -39,5 +39,4 @@ export const skills = [
     icon: <FaReact className="h-16 w-16 text-emerald-500" />,
     text: "As a crypto trader, I excel in market analysis, risk management, and strategic trading. Proficient in technical and fundamental analysis, I use advanced tools to identify opportunities. I adapt to market trends, make data-driven decisions, and manage portfolios effectively. My strong analytical skills and disciplined approach ensure consistent performance",
   },
- 
 ];
